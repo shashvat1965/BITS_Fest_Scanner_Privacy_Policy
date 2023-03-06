@@ -6,7 +6,7 @@ If you choose to use our Service, then you agree to the collection and use of in
 
 Information Collection and Use
 
-The app does not collects usage information such as tickets scanned.
+The app does not collect user information or usage information
 
 Cookies
 
